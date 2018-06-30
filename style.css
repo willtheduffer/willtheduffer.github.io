@@ -1,5 +1,13 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+body{
+   background-image: url("xxxmove.gif");
+   background-color: #cccccc;
 }
 
 .topnav {
@@ -45,13 +53,13 @@ img {
 h2{
 	text-align: center;
 	border: 15px solid #000000;
-	margin-left: 457px;
-	margin-right: 457px;
-	color: maroon;
+	margin-right: 929px;
+	color: white;
 }
 h1{
 	text-decoration: underline;
 	float: left;
+	color: white;
 }
 .section1{
 	clear: both;
